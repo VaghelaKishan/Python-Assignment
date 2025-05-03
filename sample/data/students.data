@@ -1,0 +1,10 @@
+[
+  {
+    "username": "adi",
+    "password": "123",
+    "subjects": [
+      "Mathematics"
+    ],
+    "grade": null
+  }
+]
