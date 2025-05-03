@@ -1,0 +1,48 @@
+[
+    {
+        "id": "085855",
+        "name": "kishan",
+        "email": "vaghela.kishan@university.com",
+        "password": "Kishan123",
+        "subjects": [
+            {
+                "id": "708",
+                "name": "maths",
+                "mark": 78,
+                "grade": "D"
+            },
+            {
+                "id": "420",
+                "name": "English",
+                "mark": 48,
+                "grade": "F"
+            }
+        ]
+    },
+    {
+        "id": "706766",
+        "name": "aditya",
+        "email": "aditya.patel@university.com",
+        "password": "Aditya12345",
+        "subjects": [
+            {
+                "id": "466",
+                "name": "English",
+                "mark": 88,
+                "grade": "HD"
+            },
+            {
+                "id": "792",
+                "name": "C++",
+                "mark": 46,
+                "grade": "F"
+            },
+            {
+                "id": "064",
+                "name": "React",
+                "mark": 87,
+                "grade": "HD"
+            }
+        ]
+    }
+]
